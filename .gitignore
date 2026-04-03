@@ -1,0 +1,13 @@
+venv/
+node_modules/
+dist/
+babel.db
+.copilot-auth/
+.babel-context.md
+.env
+*.pyc
+__pycache__/
+.last-native-version
+android/
+babel.db-shm
+babel.db-wal
